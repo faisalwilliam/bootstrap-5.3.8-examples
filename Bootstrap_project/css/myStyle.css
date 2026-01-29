@@ -11,4 +11,9 @@
     color: rgb(33, 37, 41);
     cursor: pointer;
 }
-/* small sidebar css */
+.bi.bi-list:hover{
+    color: rgb(205, 211, 217);
+    cursor: pointer;
+ 
+}
+
